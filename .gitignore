@@ -1,0 +1,14 @@
+# Claude settings
+.claude/
+
+# Temporary DOCX unpack directory
+docx_unpacked/
+
+# Organizational documents (not for version control)
+CTS 갱신 준비_2025/
+CTS 갱신 준비_2026/
+CTS 인수자료/
+
+# Temp files
+*.tmp
+temp_docx.zip
